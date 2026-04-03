@@ -1,0 +1,42 @@
+BODY {
+	width:350px;
+	font-family: "±¼¸²";
+}
+
+H1
+{
+	width:350px;
+	font-weight: normal;
+	font-size: 14pt;
+	text-align: center;
+	color: #000099;
+}
+
+H2 {
+	font-weight: normal;
+	font-size: 10pt;
+	line-height: 150%;
+	margin: 0px 0px 5px;
+}
+
+H3 {
+	font-weight: normal;
+	font-size: 10pt;
+	line-height: 150%;
+	margin: 0px 0px 5px 15px;
+}
+a:link {
+	font-style: normal;
+	text-decoration: none;
+	color: #000000;
+}
+a:hover {
+	background-color: #CCFF66;
+}
+a:active {
+	background-color: #FF6699;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
